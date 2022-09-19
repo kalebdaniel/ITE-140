@@ -1,5 +1,27 @@
 <!DOCTYPE html>
 <html>
+<head>
+body {
+	background-color: lightblue;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Agency FB'
+	font-size: 24px;
+}
+
+body {
+	background-color: lightblue;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Agency FB'
+	font-size: 24px;
+}
+</head>
+
 <body>
     <h1>Visualization</h1>
 
