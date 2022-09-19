@@ -2,13 +2,13 @@
 <html>
 <head>
 body {
-	background-color: lightblue;
-	text-align: center;
+	background-color:lightblue;
+	text-align:center;
 }
 
 h1{
-	font-family: 'Agency FB'
-	font-size: 24px;
+	font-family:'Agency FB'
+	font-size:24px;
 }
 </head>
 
