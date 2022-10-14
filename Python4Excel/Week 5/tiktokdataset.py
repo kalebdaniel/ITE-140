@@ -30,3 +30,14 @@ print(pivot)
 print(pd.melt(pivot.iloc[:-1,:-1].reset_index(),
         id_vars="track",
         value_name="TikTok songs 2022"))
+
+import numpy as np
+%matplotlib inline
+
+df = pd.DataFrame(data)
+df.index.name = "track_name"
+df.columns.name = "artist_name"
+df(print)
+
+df.plot()
+
